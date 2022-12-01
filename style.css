@@ -2,3 +2,12 @@ h1{
     color: red;
     font-style: italic;
 }
+
+h3{
+    color: green;
+    font-style: italic;
+}
+
+p{
+    color: steelblue;
+}
